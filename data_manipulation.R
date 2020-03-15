@@ -59,4 +59,4 @@ sp_traits_final<- sp_traits %>% remove_rownames %>% column_to_rownames(var="Spec
 
 # #exportar como CSV
 # 
-write.table(sp_traits_final, file = "atributos_funcionais_por_especies.csv", sep=";", dec=",")
+#write.table(sp_traits_final, file = "atributos_funcionais_por_especies.csv", sep=";", dec=",")
