@@ -9,11 +9,11 @@ library(tidyverse)
 # Importando banco de dados
 
 
-leaf.traits<-read.table("leaf_traits_15_03_2020.csv", header = T, dec=",", sep=";")
+leaf.traits<-read.table("leaf_traits.csv", header = T, dec=",", sep=";")
 
-wd<-read.table("wood_density_15_03_2020.csv",header = T, dec=",", sep=";")
+wd<-read.table("wood_density.csv",header = T, dec=",", sep=";")
 
-categorical.traits<-read.table("categorical_traits_15_03_2020.csv",header = T, dec=",", sep=";")
+categorical.traits<-read.table("categorical_traits.csv",header = T, dec=",", sep=";")
 categorical.traits<-as_tibble(categorical.traits)
 
 
