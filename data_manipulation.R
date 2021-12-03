@@ -26,6 +26,7 @@ leaf.traits.mean<- leaf.traits %>%
                       mean.sla = mean(Specific.Leaf.Area, na.rm = FALSE))
                       
 
+
 #Media da densidade da madeira por espécies
 
 wd.mean <- wd %>%
@@ -33,6 +34,7 @@ wd.mean <- wd %>%
              summarize(mean.wd = mean(Wood.Density, na.rm = FALSE),
                        mean.h = mean(Height, na.rm = FALSE))
 
+dim(wd)
 
 
 #Tabela de espécies com valores médios de atributos funcionais
@@ -40,6 +42,15 @@ wd.mean <- wd %>%
 join_1<-inner_join(leaf.traits.mean, wd.mean)
 sp_traits<-inner_join(join_1, categorical.traits)
 
+
+#Contagem do número de árvores/amostradas de madeira 
+dim(wd)[1]
+
+#Contagem do número de folhas
+sum(leaf.traits$N)
+
+
+#Especies com caracterização completa
 sp_traits$Species
 
 
