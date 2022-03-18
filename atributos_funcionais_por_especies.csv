@@ -1,92 +1,92 @@
-"mean.la";"mean.sla";"mean.wd";"mean.h";"origin";"disp";"dec"
-"Acca selowiana";21,6823533333333;80,698230504;0,631203033733333;5,3;"Native";"z";"dec"
-"Allophylus edulis";21,3645635678571;182,299355718571;0,552638287419355;7,42258064516129;"Native";"z";"dec"
-"Annona rugulosa";27,7887093272727;236,280847072727;0,375877577545455;8,45454545454546;"Native";"z";"dec"
-"Araucaria angustifolia";1,71430679487179;79,8176690579487;0,5319853188;10,232;"Native";"z";"per"
-"Baccharis uncinella";0,2812425;74,3305094445;0,649045067866667;2,41333333333333;"Native";"nz";"per"
-"Banara tomentosa";18,21887297;302,19604048;0,784878035666667;NA;"Native";"z";"dec"
-"Berberis laurina";10,275465;79,867301173;0,6726;2,7;"Native";"z";"per"
-"Blepharocalyx salicifolius";10,4343333333333;186,217090233333;0,546033867857143;7,79047619047619;"Native";"z";"per"
-"Calyptranthes concinna";10,06667;77,166264703;0,68764759775;7,3125;"Native";"z";"per"
-"Campomanesia xanthocarpa";24,9053602173913;182,282235215217;0,682249093268293;10,6829268292683;"Native";"z";"dec"
-"Casearia decandra";7,73846112941176;234,853308531765;0,66106766827907;9,13953488372093;"Native";"z";"dec"
-"Cedrela fissilis";1200,48560555556;98,2827807794445;0,338822418466667;10,7666666666667;"Native";"nz";"dec"
-"Cinnamodendron dinisii";14,3057329166667;85,9983476283333;0,52892424465;NA;"Native";"z";"per"
-"Cinnamomum amoenum";8,0765;69,259679735;0,409941833;NA;"Native";"z";"per"
-"Citronella gongonha";20,4168181818182;47,5153365381818;0,615243170636364;7,31818181818182;"Native";"z";"per"
-"Clethra scabra ";24,6858;88,849699744;0,4122916654;6,8;"Native";"nz";"per"
-"Crinodendron brasiliense  ";5,050145;99,402162247;0,4988496772;8,2;"Native";"nz";"per"
-"Cupania vernalis";320,042406037037;108,131603635556;0,6163164798;NA;"Native";"z";"per"
-"Dalbergia frutescens";46,646;178,5339062;0,5545807679;10,9;"Native";"nz";"dec"
-"Dasyphyllum spinescens";19,336;122,1979967;0,6673546113;11,8;"Native";"nz";"dec"
-"Dasyphyllum tomentosum";36,6142;140,97551773;0,571805774833333;12,5;"Native";"nz";"dec"
-"Drimys angustifolia";5,6731546875;92,50104934;0,548054847125;6,91666666666667;"Native";"z";"per"
-"Drimys brasiliensis";16,7456153846154;64,1597360184615;0,3978150858;6,23333333333333;"Native";"z";"per"
-"Erythrina sp.";143,529;215,3021121;0,643438914;7,4;"Native";"nz";"dec"
-"Erythroxylum deciduum";19,47215;138,51209511;0,704395604;2,5;"Native";"z";"dec"
-"Escallonia bifida ";8,0234;154,303096728;0,5276486432;4,2;"Native";"z";"dec"
-"Eugenia pyriformis";8,724;77,0510640733333;0,97325428425;NA;"Native";"z";"per"
-"Eugenia uniflora";7,12406632333333;253,153487899333;0,735581037642857;10,25;"Native";"z";"per"
-"Eugenia uruguayensis";7,42908214285714;67,1388812;0,9375435505;NA;"Native";"z";"per"
-"Gochnatia polymorpha";36,504959;124,944862152;0,7487735271;NA;"Native";"nz";"dec"
-"Gymnanthes klotzschiana";9,67619795769231;141,944036392308;0,6278943885;9,09230769230769;"Native";"nz";"dec"
-"Hovenia dulcis";58,7302;233,90360376;0,5973115676;9,8;"Exotic";"z";"dec"
-"Ilex microdonta";6,70342357142857;76,7690317614286;0,704375033352941;6,54117647058824;"Native";"z";"per"
-"Ilex paraguariensis";34,0004;146,277171657143;0,451681827928571;6,89166666666667;"Native";"z";"per"
-"Ilex theezans";14,8007555555556;69,1177074777778;0,726758713666667;9,5;"Native";"z";"per"
-"Inga lentiscifolia";29,981;179,22749902;0,5389194606;9,32;"Native";"z";"per"
-"Inga virescens ";87,7785;149,97781065;0,513358367090909;9,45454545454546;"Native";"z";"per"
-"Ligustrum lucidum";32,6416;68,403676478;0,6755469704;12,8;"Exotic";"z";"per"
-"Lithraea brasiliensis";9,01068095238095;77,9544315385714;0,643215537702703;9,56756756756757;"Native";"z";"per"
-"Luehea divaricata";52,210017755;243,78154079;0,5143404041;11,95;"Native";"nz";"dec"
-"Machaerium paraguariense";78,818994105;241,30507131;0,5384752725;8,6;"Native";"nz";"dec"
-"Matayba elaeagnoides";154,722365011538;113,039946874615;0,536098274763636;10,6818181818182;"Native";"z";"per"
-"Maytenus boaria";4,976685;97,481038445;0,603745287375;7,5375;"Native";"z";"per"
-"Mimosa scabrella ";27,2497333333333;83,6334943266667;0,665030299545455;7,63636363636364;"Native";"nz";"per"
-"Morus nigra";75,0254;318,96320506;0,4750614186;4,8;"Exotic";"z";"dec"
-"Muellera campestris";47,893519865;238,94528725;0,6974929153;9,22;"Native";"nz";"dec"
-"Myrceugenia euosma";1,88771;78,41213511;0,5534028014;5,83333333333333;"Native";"z";"per"
-"Myrceugenia glaucescens";3,972145;106,0808663;0,603799828;6,24;"Native";"z";"per"
-"Myrceugenia mesomischa";4,33631;92,671348624;0,682437981;7,33333333333333;"Native";"z";"per"
-"Myrceugenia miersiana ";9,52702681818182;138,348141636364;0,5644830399;3,66;"Native";"z";"per"
-"Myrceugenia myrcioides";13,7217725;106,432252533571;0,597251605642857;5,80714285714286;"Native";"z";"per"
-"Myrceugenia oxysepala ";4,196314;100,3061569284;0,6276038938125;5,2625;"Native";"z";"per"
-"Myrceugenia regnelliana";1,47977714285714;120,053006722381;0,625014628277778;5,08333333333333;"Native";"z";"per"
-"Myrcia guianensis";6,17258333333333;77,5205698583333;0,681839029933333;6,54;"Native";"z";"per"
-"Myrcia hatschbachii";28,8173833333333;91,73187559;0,7218362632;NA;"Native";"z";"per"
-"Myrcia oblongata";8,023;62,8424396;0,7386060155;5,75;"Native";"z";"per"
-"Myrcia palustris";4,64792;116,535319316;0,499808276;7,75;"Native";"z";"per"
-"Myrcia splendens ";4,78021666666667;213,377672371667;0,7426020436;NA;"Native";"z";"per"
-"Myrcianthes gigantea";10,9136927136364;79,0319925254545;0,7307606866;17,35;"Native";"z";"per"
-"Myrcianthes pungens";10,1441957875;80,0481632725;0,692717950545455;14,7272727272727;"Native";"z";"per"
-"Myrocarpus frondosus";91,051422278;199,24032409;0,6992555362;8,4;"Native";"nz";"dec"
-"Myrrhinium atropurpureum";8,3042075;104,458714125;0,669948695;8,23333333333333;"Native";"z";"per"
-"Myrsine coriacea ";9,37894909090909;99,4192258136364;0,577845117666667;9,04;"Native";"z";"per"
-"Myrsine lorentziana ";22,276;75,43770531;0,6675;7,5;"Native";"z";"per"
-"Myrsine umbellata";74,9946616666667;129,542309755833;0,65499561505;8,9;"Native";"z";"per"
-"Nectandra lanceolata";29,481;58,1940136;0,4381465079;13,5;"Native";"z";"per"
-"Nectandra megapotamica";18,814060378125;144,518052355;0,51336298892;11,74;"Native";"z";"per"
-"Ocotea puberula";29,2260133038462;137,913474730769;0,425497587727273;14,6818181818182;"Native";"z";"per"
-"Ocotea pulchella";5,58594775;81,2547700635;0,508850074069767;10,1581395348837;"Native";"z";"per"
-"Oreopanax fulvum";571,180666666667;101,07634683;0,402073608333333;8,66666666666667;"Native";"z";"per"
-"Parapiptadenia rigida";76,14640351;129,50637937;0,6830355772;13,65;"Native";"nz";"dec"
-"Pilocarpus pennatifolius";168,44207715;94,20025383;0,8241707657;6,2;"Native";"z";"dec"
-"Pinus elliottii";3,8758;42,269468294;0,4102507238;16,2;"Exotic";"nz";"per"
-"Pinus taeda";2,6222;87,567673018;0,3773920958;12,9;"Exotic";"nz";"per"
-"Piptocarpha angustifolia";6,9382;115,491636874;0,3306815268;11;"Native";"nz";"per"
-"Podocarpus lambertii";1,7376;106,80073642;0,46723842228;10,14;"Native";"z";"per"
-"Prunus myrtifolia";12,7796199025926;93,6916306151852;0,656658815666667;8,56060606060606;"Native";"z";"dec"
-"Sapium glandulosum";20,6898727272727;130,860535372727;0,334605234;9,22;"Native";"z";"dec"
-"Schinus sp.";5,629085;91,28324788;0,629085029666667;6,01111111111111;"Native";"z";"dec"
-"Schinus terebinthifolius";57,1741819230769;151,117123023077;0,52004736425;6,52;"Native";"z";"per"
-"Scutia buxifolia";3,551;115,1426719;0,804659091;7,5;"Native";"z";"per"
-"Sebastiania brasiliensis";10,94422026;176,002680710667;0,609889607733333;5,63333333333333;"Native";"nz";"dec"
-"Siphoneugena reitzii ";0,64529;85,2269065625;0,6738542204;7,1;"Native";"z";"per"
-"Styrax leprosus";11,9320741304348;152,884828519565;0,439805868615385;7,75641025641026;"Native";"z";"per"
-"Symplocos tetrandra ";9,57253;116,4619287;0,493521527333333;8,08333333333333;"Native";"z";"dec"
-"Symplocos uniflora";13,9006666666667;86,8972631683333;0,484200418;6,1;"Native";"z";"dec"
-"Vernonanthura discolor ";50,6125328571429;97,0415091842857;0,3288254298;7,784;"Native";"nz";"per"
-"Weinmannia paulliniifolia";8,58538119047619;104,001494292857;0,578306679352941;7,63529411764706;"Native";"nz";"per"
-"Xylosma ciliatifolia ";25,143;215,0076963;0,578373206;7,5;"Native";"z";"dec"
-"Zanthoxylum kleinii";17,689;120,7741178;0,5997804733;12,2;"Native";"z";"dec"
-"Zanthoxylum rhoifolium";36,1071875;139,967463185;0,44492191925;10,325;"Native";"z";"dec"
+;mean.la;mean.sla;mean.wd;mean.h;origin;disp;dec
+Acca selowiana;21,68235333;80,6982305;0,631203034;5,3;Native;z;dec
+Allophylus edulis;21,36456357;182,2993557;0,552638287;7,422580645;Native;z;dec
+Annona rugulosa;27,78870933;236,2808471;0,375877578;8,454545455;Native;z;dec
+Araucaria angustifolia;1,714306795;79,81766906;0,531985319;10,232;Native;z;per
+Baccharis uncinella;0,2812425;74,33050944;0,649045068;2,413333333;Native;nz;per
+Banara tomentosa;18,21887297;302,1960405;0,784878036;NA;Native;z;dec
+Berberis laurina;10,275465;79,86730117;0,6726;2,7;Native;z;per
+Blepharocalyx salicifolius;10,43433333;186,2170902;0,546033868;7,79047619;Native;z;per
+Calyptranthes concinna;10,06667;77,1662647;0,687647598;7,3125;Native;z;per
+Campomanesia xanthocarpa;24,90536022;182,2822352;0,682249093;10,68292683;Native;z;dec
+Casearia decandra;7,738461129;234,8533085;0,661067668;9,139534884;Native;z;dec
+Cedrela fissilis;1200,485606;98,28278078;0,338822418;10,76666667;Native;nz;dec
+Cinnamodendron dinisii;14,30573292;85,99834763;0,528924245;NA;Native;z;per
+Cinnamomum amoenum;8,0765;69,25967974;0,409941833;NA;Native;z;per
+Citronella gongonha;20,41681818;47,51533654;0,615243171;7,318181818;Native;z;per
+Clethra scabra ;24,6858;88,84969974;0,412291665;6,8;Native;nz;per
+Crinodendron brasiliense  ;5,050145;99,40216225;0,498849677;8,2;Native;nz;per
+Cupania vernalis;320,042406;108,1316036;0,61631648;NA;Native;z;per
+Dalbergia frutescens;46,646;178,5339062;0,554580768;10,9;Native;nz;dec
+Dasyphyllum spinescens;19,336;122,1979967;0,667354611;11,8;Native;nz;dec
+Dasyphyllum tomentosum;36,6142;140,9755177;0,571805775;12,5;Native;nz;dec
+Drimys angustifolia;5,673154688;92,50104934;0,548054847;6,916666667;Native;z;per
+Drimys brasiliensis;16,74561538;64,15973602;0,397815086;6,233333333;Native;z;per
+Erythrina sp.;143,529;215,3021121;0,643438914;7,4;Native;nz;dec
+Erythroxylum deciduum;19,47215;138,5120951;0,704395604;2,5;Native;z;dec
+Escallonia bifida ;8,0234;154,3030967;0,527648643;4,2;Native;z;dec
+Eugenia pyriformis;8,724;77,05106407;0,973254284;NA;Native;z;per
+Eugenia uniflora;7,124066323;253,1534879;0,735581038;10,25;Native;z;per
+Eugenia uruguayensis;7,429082143;67,1388812;0,937543551;NA;Native;z;per
+Gochnatia polymorpha;36,504959;124,9448622;0,748773527;NA;Native;nz;dec
+Gymnanthes klotzschiana;9,676197958;141,9440364;0,627894389;9,092307692;Native;nz;dec
+Hovenia dulcis;58,7302;233,9036038;0,597311568;9,8;Exotic;z;dec
+Ilex microdonta;6,703423571;76,76903176;0,704375033;6,541176471;Native;z;per
+Ilex paraguariensis;34,0004;146,2771717;0,451681828;6,891666667;Native;z;per
+Ilex theezans;14,80075556;69,11770748;0,726758714;9,5;Native;z;per
+Inga lentiscifolia;29,981;179,227499;0,538919461;9,32;Native;z;per
+Inga virescens ;87,7785;149,9778107;0,513358367;9,454545455;Native;z;per
+Ligustrum lucidum;32,6416;68,40367648;0,67554697;12,8;Exotic;z;per
+Lithraea brasiliensis;9,010680952;77,95443154;0,643215538;9,567567568;Native;z;per
+Luehea divaricata;52,21001776;243,7815408;0,514340404;11,95;Native;nz;dec
+Machaerium paraguariense;78,81899411;241,3050713;0,538475273;8,6;Native;nz;dec
+Matayba elaeagnoides;154,722365;113,0399469;0,536098275;10,68181818;Native;z;per
+Maytenus boaria;4,976685;97,48103845;0,603745287;7,5375;Native;z;per
+Mimosa scabrella ;27,24973333;83,63349433;0,6650303;7,636363636;Native;nz;per
+Morus nigra;75,0254;318,9632051;0,475061419;4,8;Exotic;z;dec
+Muellera campestris;47,89351987;238,9452873;0,697492915;9,22;Native;nz;dec
+Myrceugenia euosma;1,88771;78,41213511;0,553402801;5,833333333;Native;z;per
+Myrceugenia glaucescens;3,972145;106,0808663;0,603799828;6,24;Native;z;per
+Myrceugenia mesomischa;4,33631;92,67134862;0,682437981;7,333333333;Native;z;per
+Myrceugenia miersiana ;9,527026818;138,3481416;0,56448304;3,66;Native;z;per
+Myrceugenia myrcioides;13,7217725;106,4322525;0,597251606;5,807142857;Native;z;per
+Myrceugenia oxysepala ;4,196314;100,3061569;0,627603894;5,2625;Native;z;per
+Myrceugenia regnelliana;1,479777143;120,0530067;0,625014628;5,083333333;Native;z;per
+Myrcia guianensis;6,172583333;77,52056986;0,68183903;6,54;Native;z;per
+Myrcia hatschbachii;28,81738333;91,73187559;0,721836263;NA;Native;z;per
+Myrcia oblongata;8,023;62,8424396;0,738606016;5,75;Native;z;per
+Myrcia palustris;4,64792;116,5353193;0,499808276;7,75;Native;z;per
+Myrcia splendens ;4,780216667;213,3776724;0,742602044;NA;Native;z;per
+Myrcianthes gigantea;10,91369271;79,03199253;0,730760687;17,35;Native;z;per
+Myrcianthes pungens;10,14419579;80,04816327;0,692717951;14,72727273;Native;z;per
+Myrocarpus frondosus;91,05142228;199,2403241;0,699255536;8,4;Native;nz;dec
+Myrrhinium atropurpureum;8,3042075;104,4587141;0,669948695;8,233333333;Native;z;per
+Myrsine coriacea ;9,378949091;99,41922581;0,577845118;9,04;Native;z;per
+Myrsine lorentziana ;22,276;75,43770531;0,6675;7,5;Native;z;per
+Myrsine umbellata;74,99466167;129,5423098;0,654995615;8,9;Native;z;per
+Nectandra lanceolata;29,481;58,1940136;0,438146508;13,5;Native;z;per
+Nectandra megapotamica;18,81406038;144,5180524;0,513362989;11,74;Native;z;per
+Ocotea puberula;29,2260133;137,9134747;0,425497588;14,68181818;Native;z;per
+Ocotea pulchella;5,58594775;81,25477006;0,508850074;10,15813953;Native;z;per
+Oreopanax fulvum;571,1806667;101,0763468;0,402073608;8,666666667;Native;z;per
+Parapiptadenia rigida;76,14640351;129,5063794;0,683035577;13,65;Native;nz;dec
+Pilocarpus pennatifolius;168,4420772;94,20025383;0,824170766;6,2;Native;z;dec
+Pinus elliottii;3,8758;42,26946829;0,410250724;16,2;Exotic;nz;per
+Pinus taeda;2,6222;87,56767302;0,377392096;12,9;Exotic;nz;per
+Piptocarpha angustifolia;6,9382;115,4916369;0,330681527;11;Native;nz;per
+Podocarpus lambertii;1,7376;106,8007364;0,467238422;10,14;Native;z;per
+Prunus myrtifolia;12,7796199;93,69163062;0,656658816;8,560606061;Native;z;dec
+Sapium glandulosum;20,68987273;130,8605354;0,334605234;9,22;Native;z;dec
+Schinus sp.;5,629085;91,28324788;0,62908503;6,011111111;Native;z;dec
+Schinus terebinthifolius;57,17418192;151,117123;0,520047364;6,52;Native;z;per
+Scutia buxifolia;3,551;115,1426719;0,804659091;7,5;Native;z;per
+Sebastiania brasiliensis;10,94422026;176,0026807;0,609889608;5,633333333;Native;nz;dec
+Siphoneugena reitzii ;0,64529;85,22690656;0,67385422;7,1;Native;z;per
+Styrax leprosus;11,93207413;152,8848285;0,439805869;7,756410256;Native;z;per
+Symplocos tetrandra ;9,57253;116,4619287;0,493521527;8,083333333;Native;z;dec
+Symplocos uniflora;13,90066667;86,89726317;0,484200418;6,1;Native;z;dec
+Vernonanthura discolor ;50,61253286;97,04150918;0,32882543;7,784;Native;nz;per
+Weinmannia paulliniifolia;8,58538119;104,0014943;0,578306679;7,635294118;Native;nz;per
+Xylosma ciliatifolia ;25,143;215,0076963;0,578373206;7,5;Native;z;dec
+Zanthoxylum kleinii;17,689;120,7741178;0,599780473;12,2;Native;z;dec
+Zanthoxylum rhoifolium;36,1071875;139,9674632;0,444921919;10,325;Native;z;dec
